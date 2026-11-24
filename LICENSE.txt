@@ -1,0 +1,40 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+HR & Corporate Compliance Manager (CCM)
+
+Copyright © 2026 Amr Al.Rawey. All rights reserved.
+Designed & Developed by Amr Al.Rawey.
+
+1. OWNERSHIP & INTELLECTUAL PROPERTY
+This software application ("HR & Corporate Compliance Manager" / "CCM"), including its compiled
+binaries, user interface designs, graphics, HR emblems, documentation, and underlying source code,
+is the exclusive proprietary intellectual property of Amr Al.Rawey.
+
+2. GRANT OF LICENSE
+Subject to compliance with this Agreement, authorized end users are granted a limited,
+non-exclusive, non-transferable, revocable license to install and use the official compiled
+Windows application distributed exclusively via Amr Al.Rawey's official release channel
+(https://github.com/amrelrawey66-sys/HR-Management-Releases).
+
+3. RESTRICTIONS
+Except to the extent expressly permitted by applicable mandatory law, you may NOT:
+  (a) copy, reproduce, resell, rent, lease, sublicense, or commercially redistribute the software;
+  (b) modify, adapt, translate, or create derivative works based on the software;
+  (c) decompile, disassemble, reverse engineer, or attempt to extract source code from the compiled
+      application or bypass its cryptographic update signature verification mechanisms;
+  (d) remove, alter, or obscure any copyright, trademark, attribution, or license notices;
+  (e) distribute modified, repackaged, or unsigned installation packages.
+
+4. THIRD-PARTY OPEN-SOURCE COMPONENTS
+This software incorporates third-party open-source libraries (including .NET Runtime/WPF,
+Entity Framework Core, CommunityToolkit.Mvvm, MailKit, MimeKit, ClosedXML, QuestPDF,
+Docnet.Core / PDFium, and Serilog). All required third-party licenses and copyright notices are
+preserved in full in THIRD_PARTY_LICENSES.md and in the application's "About Application" screen.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+6. CONTACT & AUTHORIZATION
+Copyright Owner & Developer: Amr Al.Rawey (Software Developer & System Designer)
+Official Releases Portal: https://github.com/amrelrawey66-sys/HR-Management-Releases
